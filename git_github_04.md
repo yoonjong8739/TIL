@@ -20,10 +20,10 @@
 ---
 > 3. 참고자료
 - Github Profile 예시
-  - ["https://github.com/pifafu"]("https://github.com/pifafu")
-  - ["https://github.com/katmeister"]("https://github.com/katmeister")
-  - ["https://github.com/jlengstorf"]("https://github.com/jlengstorf")
-  - ["https://github.com/simonw"](https://github.com/simonw)
-  - ["https://github.com/CyrisXD"]("https://github.com/CyrisXD")
-  - ["https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/dynamic-realtime/quadrified.md"]("https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/dynamic-realtime/quadrified.md")
+  - [https://github.com/pifafu](https://github.com/pifafu)
+  - [https://github.com/katmeister](https://github.com/katmeister)
+  - [https://github.com/jlengstorf](https://github.com/jlengstorf)
+  - [https://github.com/simonw](https://github.com/simonw)
+  - [https://github.com/CyrisXD](https://github.com/CyrisXD)
+  - [https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/dynamic-realtime/quadrified.md](https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/dynamic-realtime/quadrified.md)
 ---
